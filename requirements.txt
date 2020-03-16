@@ -6,7 +6,7 @@ attrs=19.3.0=py_0
 autopep8=1.4.4=py_0
 backcall=0.1.0=py38_0
 blas=1.0=mkl
-bleach=3.1.0=py_0
+bleach=3.1.1=pypi_0
 ca-certificates=2020.1.1=0
 certifi=2019.11.28=py38_0
 cycler=0.10.0=py38_0
