@@ -5,4 +5,4 @@ You can recreate the environment by using the `requirements.txt`
 
 `conda create --name <env> --file requirements.txt`
 
-Make sure that `requirements.txt` has correct path.
+Make sure that `requirements.txt` has a correct path.
